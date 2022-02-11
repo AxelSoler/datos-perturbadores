@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    background-color: yellow;
+    flex-direction: column;
+    align-content: space-between;
+}
+
+.titulo {
+    font-size: 48px;
+    font-weight: bolder;
+    color: blue;
+    background-color: lightcoral;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.picture {
+    margin-left: 300px;
+    margin-top: 64px;
+    
+}
+
+.texto {
+    font-size: 24px;
+}
